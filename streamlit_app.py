@@ -6,4 +6,4 @@ st.write(
 )
 x = st.slider("Select a value")
 st.write(x, "squared is", x * x)
-st.feedback("stars"
+st.feedback("stars")
